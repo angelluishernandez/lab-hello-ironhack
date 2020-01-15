@@ -1,0 +1,22 @@
+
+
+.feature {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.featureItem {
+  width: 100%;
+  height: auto;
+	display: flex;
+  flex-direction: column;
+}
+
+
+.featureItem img{
+  width: 150px;
+  height: auto; 
+
+
+
+}
